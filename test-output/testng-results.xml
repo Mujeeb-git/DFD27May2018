@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Entering into the test execution]]>
+    </line>
+    <line>
+      <![CDATA[Alert Message: +
+Request Successfully submitted.Your Request Number is 201805274133. You will receive communication within 24 hours.
+
+• One or more SA Requests already exist for the MMS ID
+• Since Deal is not Tagged to Digital, DSD operations Team will contact you for more details
+• Since Submission date is less than 5 business days, please discuss the feasibility of SA assignment with leads/SAs]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="177901" started-at="2018-05-27T06:41:56Z" finished-at="2018-05-27T06:44:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="177901" started-at="2018-05-27T06:41:56Z" finished-at="2018-05-27T06:44:54Z">
+      <class name="testDigitalFrontDoor.SolutionArchitectRequest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testDigitalFrontDoor.SolutionArchitectRequest@bdf5e5]" name="setUp" is-config="true" duration-ms="123686" started-at="2018-05-27T12:11:56Z" finished-at="2018-05-27T12:13:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering into the test execution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase1()[pri:1, instance:testDigitalFrontDoor.SolutionArchitectRequest@bdf5e5]" name="testCase1" duration-ms="54193" started-at="2018-05-27T12:13:59Z" description="Verification of New Solution Architect (SA) Request Page" finished-at="2018-05-27T12:14:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Alert Message: +
+Request Successfully submitted.Your Request Number is 201805274133. You will receive communication within 24 hours.
+
+• One or more SA Requests already exist for the MMS ID
+• Since Deal is not Tagged to Digital, DSD operations Team will contact you for more details
+• Since Submission date is less than 5 business days, please discuss the feasibility of SA assignment with leads/SAs]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- testDigitalFrontDoor.SolutionArchitectRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="24"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="474.146">
+  <properties />
+  
+  
+            <testcase name="testCase13" time="18.588" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase14" time="2.480" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase1" time="0.371" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase18" time="1.802" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase11" time="26.967" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase8" time="36.704" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase15" time="1.051" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase3" time="8.741" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase22" time="43.000" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase6" time="29.388" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase2" time="8.566" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase16" time="1.502" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase10" time="28.078" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase24" time="19.278" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase19" time="5.399" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase5" time="1.220" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase23" time="40.505" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase7" time="41.718" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase9" time="48.947" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase21" time="75.766" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase20" time="0.727" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase4" time="7.339" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase12" time="25.946" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+                <testcase name="testCase17" time="0.063" classname="digitalFrontDoor.DFDRegressionTestSuite" />
+      
+</testsuite>
