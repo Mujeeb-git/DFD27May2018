@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite" guice-stage="DEVELOPMENT">
+<listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+     <!--  <listener class-name="utilitiesFunctionLibrary.MyListener"></listener> -->
+  </listeners>
+  <test name="Default test" verbose="2">
+    <classes>
+      <class name="testDigitalFrontDoor.SolutionArchitectRequest">
+       <methods>
+          <include name="testCase1"/>
+      <!--      <include name="testCase24"/>
+          <include name="testCase23"/>
+          <include name="testCase20"/>
+          <include name="testCase22"/>
+          <include name="testCase21"/>-->
+        </methods>
+      </class> <!-- digitalFrontDoor.DFDRegressionTestSuite -->
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
